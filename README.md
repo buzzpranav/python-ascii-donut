@@ -1,7 +1,7 @@
-#Donutsss! 🍩
+# Donutsss! 🍩
 3D spinning ASCII donut in Python (Pygame)
 
-###Sample Output
+### Sample Output
 ![Video](https://thumbs.gfycat.com/MessyHandmadeDragon-small.gif)
 
 ### Refrence
